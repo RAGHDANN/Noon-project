@@ -114,8 +114,8 @@ Our goal is to automate the collection, transformation, and analysis of e-commer
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/e-commerce-data-engineering.git
-   cd e-commerce-data-engineering
+   git clone https://github.com/your-repo/DEPI-project.git
+   cd DEPI-project
 
 2. **Set Up Azure Functions**:
    - Deploy the Azure Functions using the provided deployment scripts to automate the scraping and data processing tasks.
@@ -167,12 +167,7 @@ e-commerce-data-engineering/
 │
 ├── data/                        # Raw and processed data
 ├── scripts/                     # Python scripts for scraping and transformations
-│   ├── amazon_scraper.py
-│   ├── noon_scraper.py
-│   └── transform_data.py
-├── azure/                       # Azure Functions and Synapse scripts
-│   ├── azure_functions/
-│   └── synapse_notebooks/
+│   └──  noon_ETL.ipynb
 ├── github/                      # GitHub Actions workflow files
 │   └── .github/workflows/
 ├── power_bi_templates/           # Power BI dashboard templates
