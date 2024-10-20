@@ -115,6 +115,11 @@ Our goal is to automate the collection, transformation, and analysis of e-commer
    ```bash
    git clone https://github.com/your-repo/DEPI-project.git
    cd DEPI-project
+---
+
+## Folder Structure
+
+```bash
 e-commerce-data-engineering/
 │
 ├── data/                        # Raw and processed data
@@ -127,5 +132,3 @@ e-commerce-data-engineering/
 ├── requirements.txt              # Python dependencies
 ├── README.md                     # Project documentation
 └── LICENSE                       # License file
-
-
