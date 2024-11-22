@@ -1,4 +1,4 @@
-# E-Commerce Data Engineering Project
+# Noon Engineering Project
 
 ## Project Overview
 This project focuses on developing an automated data pipeline to collect, process, and analyze mobile product data from the e-commerce platform **Noon**. The project involves web scraping, data transformation, and modeling to enable data-driven insights into the mobile market. Additionally, the entire pipeline is automated using cloud solutions, and data visualization is done using **Power BI**.
@@ -21,7 +21,7 @@ This project focuses on developing an automated data pipeline to collect, proces
 ---
 
 ## Project Objective
-Our goal is to automate the collection, transformation, and analysis of e-commerce data from Noon for mobile products. By leveraging an efficient data pipeline, we aim to extract valuable insights into the mobile market with minimal manual intervention.
+We aim to automate the collection, transformation, and analysis of mobile product data from Noon. By leveraging an efficient data pipeline, we aim to extract valuable insights into the mobile market with minimal manual intervention.
 
 ---
 
