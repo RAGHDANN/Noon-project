@@ -2,7 +2,7 @@ name: Run Jupyter Notebook Daily Noon
 
 on:
   schedule:
-    - cron: '0 7 * * *'  # Trigger daily at midnight UTC
+    - cron: '100 * * * *'  # Trigger daily at midnight UTC
   workflow_dispatch:  # Allows for manual triggering
 
 jobs:
